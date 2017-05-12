@@ -1,5 +1,5 @@
-# vim_google_python_plugins
-a mirror for some vim plugins developed by google
+# vim_python_plugins
+a mirror for some vim plugins mainly for Python
 
 Currently:
 1. https://github.com/google/yapf/tree/master/plugins
